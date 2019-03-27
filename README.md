@@ -6,7 +6,7 @@ CECS 328 Honors Programming Assignments
 Darin Goldstein
 
 
-##2 Party
+## #2 Party
 Alice wants to throw a party and is deciding whom to call. She has N people to
 choose from, and she has made up a list of which pairs of these people know each
 other. She wants to pick as many people as possible, subject to two constraints:
