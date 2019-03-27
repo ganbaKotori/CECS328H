@@ -6,43 +6,6 @@ CECS 328 Honors Programming Assignments
 Darin Goldstein
 
 
-
-Every problem will be sent as an email attachment called input.zip. Unzip this le in the standard way to retrieve the les that you are supposed to have for each assignment. When you submit your le(s), you will zip them into a le called output.zip. In the rst assignment, for example, the output le is heights.txt, but when you submit, you will submit the le output.zip (which will be heights.txt, zipped up and renamed if necessary).
-
-If your response les contain extra white space or added characters, they will be counted as incorrect. If you have any questions about the problems, instructions, etc., please feel free to email me1 or come see during o ce hours.
-
-Make sure that you refer to the syllabus for my policies on collaboration (NOT allowed in any way, shape, or form) and the penalties for doing so.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- daring90808@gmail.com
-
 #
 
 1
