@@ -1,4 +1,4 @@
-# # #CECS348H
+# CECS348H
 Assignments for CECS338H - Data Structures and Algorithms Honors
 
 CECS 328 Honors Programming Assignments
@@ -6,7 +6,7 @@ CECS 328 Honors Programming Assignments
 Darin Goldstein
 
 
-# # 2 Party
+##2 Party
 Alice wants to throw a party and is deciding whom to call. She has N people to
 choose from, and she has made up a list of which pairs of these people know each
 other. She wants to pick as many people as possible, subject to two constraints:
@@ -23,18 +23,30 @@ matrix itself.)
 Output should consist of a list of integers, one per line, in the file party.txt
 of the people who should be invited to the party.
 For example, assume that the input file description.txt is as follows.
+
 1
+
 2
+
 0001110011
+
 0001000010
+
 0001000010
+
 1110111011
+
 1001010010
+
 1001100011
+
 0001000010
+
 0000000010
+
 1111111101
+
 1001010010
+
 The file party.txt should be empty. No valid party can be formed from this
 group of 10 people.
-
