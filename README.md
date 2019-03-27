@@ -37,3 +37,4 @@ For example, assume that the input file description.txt is as follows.
 1001010010
 The file party.txt should be empty. No valid party can be formed from this
 group of 10 people.
+
