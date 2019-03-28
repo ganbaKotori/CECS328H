@@ -1,4 +1,4 @@
-# CECS348H
+# CECS328H
 Assignments for CECS338H - Data Structures and Algorithms Honors
 
 CECS 328 Honors Programming Assignments
